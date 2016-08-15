@@ -1,8 +1,8 @@
 <?php
 
-namespace popp\ch17\megaquiz\command;
+namespace popp5\megaquiz\command;
 
-use popp\ch17\megaquiz\quiztools\ReceiverFactory;
+use popp5\megaquiz\quiztools\ReceiverFactory;
 
 /**
  * @license   http://www.example.com Borsetshire Open License

@@ -1,6 +1,6 @@
 <?php
 
-namespace popp\ch17\megaquiz\command;
+namespace popp5\megaquiz\command;
 
 /**
  * @license   http://www.example.com Borsetshire Open License
